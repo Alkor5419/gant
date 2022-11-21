@@ -1,0 +1,20 @@
+.day_wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.day {
+  border-right: 1px solid rgba(38, 40, 66, 0.12);
+  border-bottom: 1px solid rgba(38, 40, 66, 0.12);
+  width: 21.14px;
+  height: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+}
+.day_col {
+  height: 100%;
+  border-right: 1px solid rgba(38, 40, 66, 0.12);
+}

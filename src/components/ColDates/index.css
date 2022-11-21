@@ -1,0 +1,17 @@
+.col_date {
+  display: flex;
+  height: 100%;
+}
+.week {
+  width: 148px;
+  height: 100%;
+}
+.week_wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 24px;
+  background: #f7f8fc;
+  border-right: 1px solid rgba(38, 40, 66, 0.12);
+  border-bottom: 1px solid rgba(38, 40, 66, 0.12);
+}
